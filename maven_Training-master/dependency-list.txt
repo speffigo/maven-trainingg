@@ -1,0 +1,24 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------< com.javatpoint.application1:maven_Training >-------------
+[INFO] Building maven_Training 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:2.8:tree (default-cli) @ maven_Training ---
+[INFO] com.javatpoint.application1:maven_Training:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.4:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.810 s
+[INFO] Finished at: 2023-06-15T10:49:06+05:30
+[INFO] ------------------------------------------------------------------------
+[WARNING] 
+[WARNING] Plugin validation issues were detected in 2 plugin(s)
+[WARNING] 
+[WARNING]  * org.apache.maven.plugins:maven-site-plugin:3.12.1
+[WARNING]  * org.apache.maven.plugins:maven-dependency-plugin:2.8
+[WARNING] 
+[WARNING] For more or less details, use 'maven.plugin.validation' property with one of the values (case insensitive): [BRIEF, DEFAULT, VERBOSE]
+[WARNING] 
